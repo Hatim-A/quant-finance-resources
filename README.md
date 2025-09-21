@@ -1,6 +1,6 @@
 # quant-finance-resources
 
-A **human-curated collection of tools, libraries, datasets, APIs, and hidden gems** for anyone interested in quantitative finance, algorithmic trading, or financial research. This list is designed to save you hours of searching and includes both popular essentials and lesser-known gems.
+A **curated collection of tools, libraries, datasets, APIs, and hidden gems** for anyone interested in quantitative finance, algorithmic trading, or financial research. This list is designed to save you hours of searching and includes both popular essentials and lesser-known gems.
 
 ---
 
