@@ -70,6 +70,7 @@ A **curated collection of tools, libraries, datasets, APIs, and hidden gems** fo
 | Name | Type | Link | Notes |
 |------|------|------|-------|
 | **FRED** | Free | [Website](https://fred.stlouisfed.org/) | US economic data. |
+| **MacroDial** | Free | [Website](https://macrodial.org/dashboard) | Daily U.S. macroeconomic conditions score, seven modules and historical context for research. |
 | **World Bank Open Data** | Open | [Website](https://data.worldbank.org/) | Global economic indicators. |
 | **ECB SDW** | Free | [Website](https://sdw.ecb.europa.eu/) | Eurozone statistics. |
 | **OECD Data** | Open | [Website](https://data.oecd.org/) | Global economic, social, financial indicators. |
